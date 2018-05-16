@@ -1,4 +1,5 @@
 # Security
 ## Types of Security Risks to an Organisation
 An organisation's network is vital for employees to be able to do their jobs and therefore make money for the company. For this reason it is imperative that an organisation is aware of what IT security risks it is vunerable to and how to deal with said security risks effectively.
-Employees in organisations use emails constantly to communicate with colleagues. A increasing threat to email users is spam with research even claiming that up to 94% of all emails are spam. Spam is more than just irritating, it can also be harmful: there is a higher risk of more.
+Employees in organisations use emails constantly to communicate with colleagues. A increasing threat to email users is spam with research even claiming that up to 94% of all emails are spam. Spam is more than just irritating, it can also be harmful such as spam which includes malicious links, which downloads malware or other harmful files, when clicked on. Therefore the first step for robust security is to make sure there is anti-spam software on the network.
+Another threat an organisation can face are viruses. A virus can copy itself and infect other machines on a network without the users even realising it's there until it strikes. Viruses can also be spread by email, instant messaging, and over shared networks which can lead 
